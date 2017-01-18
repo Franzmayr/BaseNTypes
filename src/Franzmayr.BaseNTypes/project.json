@@ -48,6 +48,6 @@
       "type": "git",
       "url": "https://github.com/Franzmayr/BaseNTypes"
     },
-    "tags": [ "BaseN", "Base16", "Base32", "Base32-Hex", "Base64", "Base64-Urlsafe", "DotNet Core", ".NetStandard" ],
+    "tags": [ "BaseN", "Base16", "Base32", "Base32-Hex", "Base64", "Base64-Urlsafe", "DotNet Core", ".NetStandard" ]
   }
 }
